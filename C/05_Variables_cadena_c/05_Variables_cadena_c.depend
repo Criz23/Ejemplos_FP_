@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695011633 source:c:\users\crizf\desktop\ejemplos_fp_\c\05_variables_cadena_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
