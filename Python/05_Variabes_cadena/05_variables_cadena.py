@@ -4,7 +4,7 @@ caracter = 'P'
 print(cadena)
 print(caracter)
 
-print(cadena[0])
+print(cadena[10])
 
 print(type(cadena))
 print(type(caracter))

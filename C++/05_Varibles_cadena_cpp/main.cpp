@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     char nombre[5];
-    string nombre_s;
+    string nombre_, nombre_s;
 
     nombre[0] = 'J';
     nombre[1] = 'u';
@@ -15,11 +15,21 @@ int main()
 
     nombre_s = "Pedro";
 
-    cout << nombre << endl;
-    cout << nombre[0] << endl;
+    cout << nombre<< endl;
+    cout << nombre[10] << endl;
 
 
     cout << nombre_s << endl;
-    cout << nombre_s[0];
+    cout << nombre_s[0] << endl;
+
+
+    nombre_[0] = 'P';
+    nombre_[1] = 'a';
+    nombre_[2] = 'c';
+    nombre_[3] = 'o';
+    nombre_[4] = '\0';
+
+    cout << "Nombre_:" << nombre_ << endl;
+
     return 0;
 }
