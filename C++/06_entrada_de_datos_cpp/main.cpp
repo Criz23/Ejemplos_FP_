@@ -10,13 +10,13 @@ int main()
     bool boleano;
 
 
-    cout << "Ingrese su nombre:";
+    //cout << "Ingrese su nombre:";
     cin >> nombre;
-    cout << "Ingrese un entero:";
+    //cout << "Ingrese un entero:";
     cin >> entero;
-    cout << "Ingrese un flotante:";
+    //cout << "Ingrese un flotante:";
     cin >> flotante;
-    cout << "Ingrese un boleano:";
+    //cout << "Ingrese un boleano:";
     cin >> boleano;
 
     cout << "\nTu nombre es: " << nombre << endl;
