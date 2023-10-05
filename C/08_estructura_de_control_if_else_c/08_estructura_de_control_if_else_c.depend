@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696216889 source:/home/javier/Escritorio/Repositorios/Ejemplos_FP_/C/08_estructura_de_control_if_else_c/main.c
+	<stdio.h>
+	<stdlib.h>
+
