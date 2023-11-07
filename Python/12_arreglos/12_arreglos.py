@@ -16,7 +16,7 @@ def mostrar(personas):
         print("Nombre: ", persona[0])
         print("Apellido Parteno: ", persona[1])
         print("Apellido Materno: ", persona[2])
-        print("Eddad: ", persona[2])
+        print("Eddad: ", persona[3])
         print("Altura: ", persona[4])
         print("***************************")
 
@@ -27,7 +27,7 @@ def buscar(personas):
             print("Nombre: ", persona[0])
             print("Apellido Parteno: ", persona[1])
             print("Apellido Materno: ", persona[2])
-            print("Eddad: ", persona[2])
+            print("Eddad: ", persona[3])
             print("Altura: ", persona[4])
             print("***************************")
             break
@@ -88,3 +88,4 @@ while True:
         break
     else:
         print("Opción no válida")
+
